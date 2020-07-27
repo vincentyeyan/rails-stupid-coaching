@@ -1,0 +1,67 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+
+.div1 {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.container {
+  width: 200px;
+  background: rgb(250, 251, 250);
+  box-shadow: 2px 2px 2px rgb(240, 240, 240);
+  padding: 20px 20px;
+  position: center;
+  margin-top: 16px;
+  border-radius: 8px;
+
+}
+
+h1 {
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+p, h3 {
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+  color: teal;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.asknew {
+  text-align: center;
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  margin-top:50px;
+  text-align:center;
+}
+
+.btn {
+  padding: 10px;
+  margin-left: 10px;
+}
+
+
+
